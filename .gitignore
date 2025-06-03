@@ -1,6 +1,10 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*.pdf
+*.csv
+*.ipynb_checkpoints
+*.env
 *$py.class
 
 # C extensions
